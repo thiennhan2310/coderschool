@@ -1,0 +1,17 @@
+basics
+--main.go
+--main_test.go
+interfaces
+--main.go
+lab1
+--main.go
+main
+prework
+--.git
+--README.MD
+--basics
+----main.go
+----main_test.go
+--main
+--main.go
+test.txt
